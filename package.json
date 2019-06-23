@@ -1,0 +1,39 @@
+{
+  "name": "fe-cli",
+  "version": "1.0.3",
+  "description": "fe cli",
+  "main": "index.js",
+  "bin": {
+    "lord-ring": "bin/lord-ring.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "node --inspect --inspect-brk ./bin/lord-ring.js create test"
+  },
+  
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "frontend-cli",
+    "fe",
+    "gitlab",
+    "gitlab cli"
+  ],
+  "author": "hucheng",
+  "license": "mit",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^2.0.0",
+    "enquirer": "^2.3.0",
+    "execa": "^1.0.0",
+    "fs-extra": "^7.0.1",
+    "import-global": "^0.1.0",
+    "inquirer": "^3.3.0",
+    "jstransformer-handlebars": "^1.1.0",
+    "kopy": "^8.3.1",
+    "ora": "^3.4.0"
+  }
+}
