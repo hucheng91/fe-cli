@@ -10,5 +10,12 @@
         "name": "npm-vue-component",
         "description": "vue 组件 模版",
         "url": "github:github.com/hucheng91/npm-sdk-template-rollupdemo"
+    },
+    {
+        "id": 3,
+        "name": "vue-signle-page",
+        "description": "vue 单页模版",
+        "url": "gitlab:gitbookdemo/vue-signle-page"
     }
+    
 ]
