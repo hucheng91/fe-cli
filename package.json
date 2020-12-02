@@ -30,7 +30,7 @@
     "execa": "^1.0.0",
     "fs-extra": "^7.0.1",
     "import-global": "^0.1.0",
-    "inquirer": "^3.3.0",
+    "inquirer": "^7.3.3",
     "jstransformer-handlebars": "^1.1.0",
     "kopy": "^8.3.1",
     "ora": "^3.4.0"
