@@ -15,7 +15,7 @@
         "id": 3,
         "name": "vue-signle-page",
         "description": "vue 单页模版",
-        "url": "gitlab:gitbookdemo/vue-signle-page"
+        "url": "https://gitee.com/nigel2018/nri_demo_webpack4.git"
     }
     
 ]
