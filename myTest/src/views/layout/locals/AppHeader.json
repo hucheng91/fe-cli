@@ -1,0 +1,35 @@
+{
+    "zh-CH": {
+        "chinese": "中文",
+        "japanese": "日本語",
+        "english": "English",
+        "logout": "退出登录",
+        "my_template": "我的模板",
+        "exit_confirm": "你想退出吗？",
+        "Tips": "提示",
+        "confirm": "确认",
+        "cancel": "取消"
+    },
+    "en": {
+        "chinese": "中文",
+        "japanese": "日本語",
+        "english": "English",
+        "logout": "Sign out",
+        "my_template": "My ocr template",
+        "exit_confirm": "Do you want to exit?",
+        "Tips": "Tips",
+        "confirm": "confirm",
+        "cancel": "cancel"
+    },
+    "ja": {
+        "chinese": "中文",
+        "japanese": "日本語",
+        "english": "English",
+        "logout": "ログアウト",
+        "my_template": "マイテンプレート",
+        "exit_confirm": "終了しますか?",
+        "Tips": "ヒント",
+        "confirm": "確認",
+        "cancel": "取消"
+    }
+}

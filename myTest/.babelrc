@@ -1,0 +1,17 @@
+{
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "env": {
+    "development": {
+      "sourceMaps": true,
+      "retainLines": true
+    },
+    "test": {
+      "plugins": [
+        "istanbul"
+      ]
+    }
+  },
+  "comments": false
+}

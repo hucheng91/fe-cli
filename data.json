@@ -1,21 +1,8 @@
 [
     {
         "id": 1,
-        "name": "npm-sdk-component",
-        "description": " npm sdk 模版",
-        "url": "github:hucheng91/npm-sdk-template-rollupdemo"
-    },
-    {
-        "id": 2,
-        "name": "npm-vue-component",
-        "description": "vue 组件 模版",
-        "url": "github:github.com/hucheng91/npm-sdk-template-rollupdemo"
-    },
-    {
-        "id": 3,
         "name": "vue-signle-page",
         "description": "vue 单页模版",
-        "url": "https://gitee.com/nigel2018/nri_demo_webpack4.git"
+        "url": "gitee:nigel2018/nri_demo_webpack4"
     }
-    
 ]
