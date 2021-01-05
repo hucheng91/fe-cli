@@ -22,7 +22,7 @@
   "author": "hucheng",
   "license": "mit",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
     "download-git-repo": "^2.0.0",
